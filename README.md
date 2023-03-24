@@ -1,5 +1,5 @@
 # Calculator
-My first project in  Web Development .It is developed using HTML, CSS and JS.
+My first project in  Web Development .It was developed using HTML, CSS and JS.
 
 #  Features 
 1. Basic Arithmetic calculations .
